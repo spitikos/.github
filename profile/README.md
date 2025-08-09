@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/spitikos/spitikos/main/assets/icon.svg" alt="spitikos logo" width="150">
+  <a href="https://spitikos.dev">
+    <img src="https://raw.githubusercontent.com/spitikos/spitikos/main/assets/icon.svg" alt="spitikos logo" width="150">
+  </a>
   <h1>spitikos</h1>
   <p><i>(σπιτικός) — homemade</i></p>
   <p>A modern, GitOps-driven Kubernetes homelab running on a Raspberry Pi.</p>
@@ -7,9 +9,9 @@
 
 ---
 
-_**Spitikos** is a personal cloud platform built to explore cloud-native technologies in a homelab environment. It leverages a Raspberry Pi 5 to run a complete Kubernetes (k3s) ecosystem, managed entirely through GitOps principles._
+**Spitikos** is a personal cloud platform built to explore cloud-native technologies in a homelab environment. It leverages a Raspberry Pi 5 to run a complete Kubernetes (k3s) ecosystem, managed entirely through GitOps principles.
 
-## Tech Stack
+### Tech Stack
 
 - **Hardware:** Raspberry Pi 5
 - **Orchestration:** k3s (Kubernetes)

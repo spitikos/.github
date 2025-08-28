@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://spitikos.dev">
-    <img src="https://raw.githubusercontent.com/spitikos/spitikos/main/assets/icon.svg" alt="spitikos logo" width="150">
+    <img src="https://raw.githubusercontent.com/spitikos/.github/main/assets/icon.svg" alt="spitikos logo" width="150">
   </a>
   <h1>spitikos</h1>
   <p><i>(σπιτικός) — homemade</i></p>
